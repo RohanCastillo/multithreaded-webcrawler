@@ -44,6 +44,8 @@ A web crawler built in C that uses multithreading and a pipeline architecture to
 ---
 
 ##  Project Structure
+'''
+multithreaded-webcrawler/
 │
 ├── include/
 │
@@ -64,3 +66,4 @@ A web crawler built in C that uses multithreading and a pipeline architecture to
 │
 ├── Makefile
 └── README.md
+'''
