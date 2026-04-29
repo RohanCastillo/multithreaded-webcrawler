@@ -15,7 +15,7 @@ A web crawler built in C that uses multithreading and a pipeline architecture to
 ---
 
 ## Project Architecture
-# Components
+Components
 Crawler
 - Manages URL frontier
 - Spawns worker threads
